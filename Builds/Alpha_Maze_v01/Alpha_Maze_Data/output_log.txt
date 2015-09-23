@@ -1,0 +1,32 @@
+Initialize engine version: 4.6.4f1 (99f88340878d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: NVIDIA Quadro FX 1800 (ID=0x638)
+    Vendor:   NVIDIA
+    VRAM:     741 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: U:\Carlile\TestMaze\Builds\Alpha_Maze_v01\Alpha_Maze_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading U:\Carlile\TestMaze\Builds\Alpha_Maze_v01\Alpha_Maze_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: U:\Carlile\TestMaze\Builds\Alpha_Maze_v01\Alpha_Maze_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading U:\Carlile\TestMaze\Builds\Alpha_Maze_v01\Alpha_Maze_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: U:\Carlile\TestMaze\Builds\Alpha_Maze_v01\Alpha_Maze_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading U:\Carlile\TestMaze\Builds\Alpha_Maze_v01\Alpha_Maze_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: U:\Carlile\TestMaze\Builds\Alpha_Maze_v01\Alpha_Maze_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading U:\Carlile\TestMaze\Builds\Alpha_Maze_v01\Alpha_Maze_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: U:\Carlile\TestMaze\Builds\Alpha_Maze_v01\Alpha_Maze_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading U:\Carlile\TestMaze\Builds\Alpha_Maze_v01\Alpha_Maze_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.057 seconds
+desktop: 1680x1050 59Hz; virtual: 1680x1050 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: U:\Carlile\TestMaze\Builds\Alpha_Maze_v01\Alpha_Maze_Data\Managed\System.Core.dll (this message is harmless)
+270
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+90
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Platform assembly: U:\Carlile\TestMaze\Builds\Alpha_Maze_v01\Alpha_Maze_Data\Managed\Boo.Lang.dll (this message is harmless)

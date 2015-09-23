@@ -1,0 +1,157 @@
+Initialize engine version: 4.6.4f1 (99f88340878d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: NVIDIA GeForce 9500 GT (ID=0x640)
+    Vendor:   NVIDIA
+    VRAM:     997 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\User\Desktop\GADA313 - Advanced Game Prototyping\TestMaze\Builds\VertSlice_Maze_v01\VertSlice_Maze_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\User\Desktop\GADA313 - Advanced Game Prototyping\TestMaze\Builds\VertSlice_Maze_v01\VertSlice_Maze_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\GADA313 - Advanced Game Prototyping\TestMaze\Builds\VertSlice_Maze_v01\VertSlice_Maze_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\User\Desktop\GADA313 - Advanced Game Prototyping\TestMaze\Builds\VertSlice_Maze_v01\VertSlice_Maze_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\GADA313 - Advanced Game Prototyping\TestMaze\Builds\VertSlice_Maze_v01\VertSlice_Maze_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\User\Desktop\GADA313 - Advanced Game Prototyping\TestMaze\Builds\VertSlice_Maze_v01\VertSlice_Maze_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\GADA313 - Advanced Game Prototyping\TestMaze\Builds\VertSlice_Maze_v01\VertSlice_Maze_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\User\Desktop\GADA313 - Advanced Game Prototyping\TestMaze\Builds\VertSlice_Maze_v01\VertSlice_Maze_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\GADA313 - Advanced Game Prototyping\TestMaze\Builds\VertSlice_Maze_v01\VertSlice_Maze_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\User\Desktop\GADA313 - Advanced Game Prototyping\TestMaze\Builds\VertSlice_Maze_v01\VertSlice_Maze_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.056 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\User\Desktop\GADA313 - Advanced Game Prototyping\TestMaze\Builds\VertSlice_Maze_v01\VertSlice_Maze_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\User\Desktop\GADA313 - Advanced Game Prototyping\TestMaze\Builds\VertSlice_Maze_v01\VertSlice_Maze_Data\Managed\Boo.Lang.dll (this message is harmless)
+NullReferenceException: Object reference not set to an instance of an object
+  at RoomIdentify.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+E
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at RoomIdentify.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+E
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at RoomIdentify.OnTriggerExit (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+E
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+E
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+E
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+E
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Door is locked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Door is locked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Door is locked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Door is locked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at RoomIdentify.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at RoomIdentify.OnTriggerExit (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+E
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+E
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Door is locked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Door is locked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Door is locked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Door is locked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Door is locked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Door is locked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Door is locked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Door is locked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Door is locked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Door is locked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Door is locked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Door is locked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Door is locked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Door is locked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Door is locked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+

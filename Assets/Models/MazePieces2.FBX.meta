@@ -1,0 +1,87 @@
+fileFormatVersion: 2
+guid: 6779d3615c2d789469997e4104e85d7e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: colCube
+    100002: colSphere
+    100004: ColTri
+    100006: exitA
+    100008: exitB
+    100010: //RootNode
+    400000: colCube
+    400002: colSphere
+    400004: ColTri
+    400006: exitA
+    400008: exitB
+    400010: //RootNode
+    2300000: colCube
+    2300002: colSphere
+    2300004: ColTri
+    2300006: exitA
+    2300008: exitB
+    3300000: colCube
+    3300002: colSphere
+    3300004: ColTri
+    3300006: exitA
+    3300008: exitB
+    4300000: exitA
+    4300002: colCube
+    4300004: colSphere
+    4300006: ColTri
+    4300008: exitB
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

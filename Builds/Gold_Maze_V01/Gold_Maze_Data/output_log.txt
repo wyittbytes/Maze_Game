@@ -1,0 +1,183 @@
+Initialize engine version: 4.6.4f1 (99f88340878d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R7 200 Series (ID=0x6658)
+    Vendor:   ATI
+    VRAM:     2025 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\Education\Aii\AITA\9 - Sp15 - GADA313 - Advanced Game Prototyping\TestMaze\Builds\Gold_Maze_V01\Gold_Maze_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\Education\Aii\AITA\9 - Sp15 - GADA313 - Advanced Game Prototyping\TestMaze\Builds\Gold_Maze_V01\Gold_Maze_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\Education\Aii\AITA\9 - Sp15 - GADA313 - Advanced Game Prototyping\TestMaze\Builds\Gold_Maze_V01\Gold_Maze_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading G:\Education\Aii\AITA\9 - Sp15 - GADA313 - Advanced Game Prototyping\TestMaze\Builds\Gold_Maze_V01\Gold_Maze_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: G:\Education\Aii\AITA\9 - Sp15 - GADA313 - Advanced Game Prototyping\TestMaze\Builds\Gold_Maze_V01\Gold_Maze_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\Education\Aii\AITA\9 - Sp15 - GADA313 - Advanced Game Prototyping\TestMaze\Builds\Gold_Maze_V01\Gold_Maze_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\Education\Aii\AITA\9 - Sp15 - GADA313 - Advanced Game Prototyping\TestMaze\Builds\Gold_Maze_V01\Gold_Maze_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading G:\Education\Aii\AITA\9 - Sp15 - GADA313 - Advanced Game Prototyping\TestMaze\Builds\Gold_Maze_V01\Gold_Maze_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: G:\Education\Aii\AITA\9 - Sp15 - GADA313 - Advanced Game Prototyping\TestMaze\Builds\Gold_Maze_V01\Gold_Maze_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\Education\Aii\AITA\9 - Sp15 - GADA313 - Advanced Game Prototyping\TestMaze\Builds\Gold_Maze_V01\Gold_Maze_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.050 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: G:\Education\Aii\AITA\9 - Sp15 - GADA313 - Advanced Game Prototyping\TestMaze\Builds\Gold_Maze_V01\Gold_Maze_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: G:\Education\Aii\AITA\9 - Sp15 - GADA313 - Advanced Game Prototyping\TestMaze\Builds\Gold_Maze_V01\Gold_Maze_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 4.741096 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1392.
+Total: 1.412995 ms (FindLiveObjects: 0.049355 ms CreateObjectMapping: 0.023456 ms MarkObjects: 0.265104 ms  DeleteObjects: 0.530942 ms)
+
+270
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+90
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Platform assembly: G:\Education\Aii\AITA\9 - Sp15 - GADA313 - Advanced Game Prototyping\TestMaze\Builds\Gold_Maze_V01\Gold_Maze_Data\Managed\Boo.Lang.dll (this message is harmless)
+180
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+E
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+90
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+E
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+270
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+180
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+E
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+270
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+E
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+180
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+E
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+270
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+E
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+90
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+E
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+180
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+E
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+90
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+E
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+180
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+E
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+90
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+E
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+180
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+E
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+90
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+270
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+E
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+E
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+E
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 8.849607 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1090 unused Assets to reduce memory usage. Loaded Objects now: 303.
+Total: 2.032387 ms (FindLiveObjects: 0.038849 ms CreateObjectMapping: 0.023944 ms MarkObjects: 0.195224 ms  DeleteObjects: 1.266149 ms)
+
+UnloadTime: 0.503087 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 274.
+Total: 4.754535 ms (FindLiveObjects: 0.015637 ms CreateObjectMapping: 0.013438 ms MarkObjects: 0.192292 ms  DeleteObjects: 3.991229 ms)
+
